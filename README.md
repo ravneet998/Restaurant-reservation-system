@@ -19,26 +19,24 @@ This repository is set up as a *monorepo*, meaning that the frontend and backend
 As you work through the user stories listed later in this document, you will be writing code that allows your frontend and backend applications to talk to each other. You will also write code to allow your controllers and services to connect to, and query, your PostgreSQL database via [Knex](http://knexjs.org/).
 
 <h2> API Documentation </h2>
-/reservations - GET: List all reservations & POST: Create a new reservation
-//reservations/:reservation_id/status - PUT: Update a reservation's status. Options being "booked", "seated", "cancelled", or "finished".
-/tables - GET: List all tables & POST: Create a new table
-/tables/:tableId/seat - PUT and DELETE to update or remove a reservation id from a table, and then update the reservation status
+<img width="633" alt="table" src="https://user-images.githubusercontent.com/109993408/219917650-22a7d649-b842-4a4c-a266-93a2b5c6d2fc.png">
+
 
 <h2> Technology </h2>
-JavaScript
-HTML
-CSS and Bootstrap
-NodeJS
-PostgreSQL
-React
-REST APIs
-Express
+<li> JavaScript </li>
+<li> HTML</li>
+<li> CSS and Bootstrap</li>
+<li> NodeJS</li>
+<li> PostgreSQL</li>
+<li> React</li>
+<li> REST APIs</li>
+<li> Express</li>
 
 <h2> Installation </h2>
-Fork and clone this repository.
-Run cp ./back-end/.env.sample ./back-end/.env.
-Update the ./back-end/.env file with the connection URL's to your ElephantSQL database instance.
-Run cp ./front-end/.env.sample ./front-end/.env.
+<li> Fork and clone this repository.</li>
+<li>Run cp ./back-end/.env.sample ./back-end/.env.</li>
+<li>Update the ./back-end/.env file with the connection URL's to your ElephantSQL database instance.</li>
+<li>Run cp ./front-end/.env.sample ./front-end/.env.</li>
 You should not need to make changes to the ./front-end/.env file unless you want to connect to a backend at a location other than http://localhost:5001.
 Run npm install to install project dependencies.
 Run npm run start:dev to start your server in development mode.
