@@ -44,7 +44,7 @@ Run npm run start:dev to start your server in development mode.
 <h3> /search <h3>
 <img width="894" alt="search" src="https://user-images.githubusercontent.com/109993408/219914101-d4907c46-d9f3-4ea7-8583-309a97cdbf53.png">
 
-<h3> reservations/new <h3>
+<h3> /reservations/new <h3>
 
 <img width="1198" alt="new" src="https://user-images.githubusercontent.com/109993408/219914473-f5fb72e4-11a5-434a-8e7a-7d4b37bc5d75.png">
 
