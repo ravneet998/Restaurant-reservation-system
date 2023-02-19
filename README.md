@@ -1,6 +1,6 @@
 # Capstone: Restaurant Reservation System
 
-https://restaurant-reservation-system-czoy59r9c-ravneet998.vercel.app/dashboard
+https://restaurant-reservation-system-coral.vercel.app/
 <img width="1359" alt="restaurant homepage" src="https://user-images.githubusercontent.com/109993408/219911180-5124093d-68e0-4a40-88a4-43c997f68426.png">
 
 
